@@ -5,5 +5,5 @@ export const products = [
   { id: '4', name: 'Товар 4', price: 4000, image: '/img4.jpg', description: 'Описание товара 4' },
   { id: '5', name: 'Товар 5', price: 5000, image: '/img5.jpg', description: 'Описание товара 5' },
   { id: '6', name: 'Товар 6', price: 6000, image: '/img6.jpg', description: 'Описание товара 6' },
-
+  
 ]
